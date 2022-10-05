@@ -1,0 +1,67 @@
+/* STYLES */
+
+body {
+    background: rgb(18, 30, 90);
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+
+    width: 700px;
+    margin-left:auto;
+    margin-right:auto;
+    letter-spacing: -1px;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 133px;
+    line-height: 103%;
+    letter-spacing: -1px;
+    color: rgb(168, 251, 239);
+    text-transform: uppercase;
+    
+    
+}
+
+h2 {
+    color: rgb(168, 251, 239);
+
+}
+
+em {
+    color: rgb(255, 255, 255);
+}
+
+    a {
+        color: rgb(168, 251, 239);
+        font-family: 'Anton', sans-serif;
+        letter-spacing: 0.5px;
+    }
+
+h3 {
+    font-family: 'Anton', sans-serif;
+    color:rgb(168, 251, 239);
+    font-size: 40px
+}
+
+ul {
+    color:rgb(168, 251, 239);
+}
+
+
+p {
+    margin: 0;
+    text-indent: 24px;
+    margin-bottom: 16px;
+    line-height: 180%;
+}
+
+h4 {
+
+    color:rgb(168, 251, 239);
+    font-size: 35px
+
+}
+
